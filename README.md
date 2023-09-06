@@ -4,6 +4,6 @@
 
 
 - 🌱 Ask me about my Skills: Engineer | Web Developer | MERN Stack | Firebase | Mongodb.
--  🌱 Ask me about my Skills: Material UI | Tailwind CSS | Redux | Linux
+-  🌱And Also Ask me about my Skills: Material UI | Tailwind CSS | Redux | Linux
 - 💬 I’m currently learning TypeScript | PHP | Wordpress | SQL | Python | Django .  
 - 📫 How to reach me  jonaeathbcc18@gmail.com
