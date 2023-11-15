@@ -12,9 +12,9 @@
 LIVE PROJECTS:
 
 Government Employee Management System (GEMS):
-* LIVE LINK- https://gems.gov.bd/
+* Live Link- https://gems.gov.bd/
 * Technology used: JavaScript, React Library, Redux , CSS Library for Front-end Design and also use Java. MySQL for back-end design.
 
 Surokkh:
-* LIVE LINK- https://surokkha.gov.bd/
+* Live Link- https://surokkha.gov.bd/
 * JavaScript, React Library, Redux , CSS Library for Front-end Design
