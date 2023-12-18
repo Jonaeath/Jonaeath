@@ -5,7 +5,7 @@
 
 - 🌱 Ask me about my Skills: Engineer | Web Developer | MERN Stack | Firebase | MySQL.
 -  🌱 Special Knowledge: JavaScript | TypeScrip | Next.js |
--  🌱And Also Ask me about my Skills: Material UI | Tailwind CSS | Chakra-U | Redux | Linux
+-  🌱And Also Ask me about my Skills: Material UI | Tailwind CSS | Chakra-UI | Redux | Linux
 - 💬 I’m currently learning t | PHP | Wordpress | SQL | Python | Django .  
 - 📫 How to reach me  jonaeathbcc18@gmail.com
 
