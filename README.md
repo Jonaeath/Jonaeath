@@ -1,13 +1,13 @@
-<h1 align="center">Hi 🚍, I'm Jonaeath Hossin</h1>
+<h1 align="center">Hi 📫, I'm Jonaeath Hossin</h1>
 <h3 align="center">Web Developer</h3>
 👯 I would like to work in an area that I love. Software Development is of great interest and I want to explore myself in this area.
 
 
-- 🌱 Ask me about my Skills: Engineer | Web Developer | MERN Stack | Firebase | MySQL.
+- 🌱 Ask me about my Skills: Engineering | Web Development | MERN Stack | Firebase | MySQL.
 -  🌱 Special Knowledge: JavaScript | TypeScrip | Next.js |
 -  🌱And Also Ask me about my Skills: Material UI | Tailwind CSS | Chakra-UI | Redux | Linux
 - 💬 I’m currently learning | AWS | Docker | MySQL |  
-- 📫 How to reach me  jonaeathbcc18@gmail.com
+- 🚍 How to reach me  jonaeathbcc18@gmail.com
 
 ➡️ LIVE PROJECTS:
 * [Live Demo]( https://new-food-blog.web.app/)
