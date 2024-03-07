@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonaeath Hossin</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<h1 align="center">Hi ➡️, I'm Jonaeath Hossin</h1>
+<h3 align="center">Web Developer</h3>
 👯 I would like to work in an area that I love. Software Development is of great interest and I want to explore myself in this area.
 
 
@@ -10,6 +10,14 @@
 - 📫 How to reach me  jonaeathbcc18@gmail.com
 
 LIVE PROJECTS:
+* [Live Demo]( https://new-food-blog.web.app/)
+* [Live Demo](https://full-website-b4091.web.app/)
+* [Live Demo] (https://soft-sequel-11d1f1.netlify.app/)
+* [Live Demo](https://fly-faraz.web.app/)
+* [Live Link]( https://start-up-5f6ad.web.app/)
+* Technology used: JavaScript,TypeScript React & React+Vite Library, Redux , CSS Library for Front-end Design and also use NodeJs,Express,MongoDb & MySQL for back-end design.
+  
+
 
 Government Employee Management System (GEMS):
 * Live Link- https://gems.gov.bd/
