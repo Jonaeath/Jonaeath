@@ -17,13 +17,11 @@
 * [Live Demo]( https://start-up-5f6ad.web.app/)
 
 ➡️ Technology used: JavaScript,TypeScript React & React+Vite Library, Redux , CSS Library for Front-end Design and also use NodeJs,Express,MongoDb & MySQL for back-end design.
-  
 
+🚶Below are two professional projects where I had the opportunity to work for a short period of time.
+   
+  * Government Employee Management System (GEMS): [Live Demo](https://gems.gov.bd/)
+  * Surokkh:[Live Demo](https://surokkha.gov.bd/)
 
-Government Employee Management System (GEMS):
-* Live Link- https://gems.gov.bd/
-* Technology used: JavaScript, React Library, Redux , CSS Library for Front-end Design and also use Java. MySQL for back-end design.
+➡️ Technology used: JavaScript, React Library, Redux , CSS Library for Front-end Design and also use Java. MySQL for back-end design.
 
-Surokkh:
-* Live Link- https://surokkha.gov.bd/
-* JavaScript, React Library, Redux , CSS Library for Front-end Design
