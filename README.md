@@ -8,7 +8,7 @@
 -  🌱And Also Ask me about my Skills: Material UI | Tailwind CSS | Chakra-UI | Redux | Linux
 - 💬 I’m currently learning | AWS | Docker | MySQL |  
 - 🚍 How to reach me  jonaeathbcc18@gmail.com
-
+<hr/>
 ➡️ LIVE PROJECTS:
 * [Live Demo]( https://new-food-blog.web.app/)
 * [Live Demo](https://full-website-b4091.web.app/)
@@ -21,5 +21,6 @@
 🚶Below are two professional projects where I had the opportunity to work for a short period of time.  
   * Government Employee Management System (GEMS): [Live Demo](https://gems.gov.bd/)
   * Surokkh:[Live Demo](https://surokkha.gov.bd/)
+    
 ➡️ Technology used: JavaScript, React Library, Redux , CSS Library for Front-end Design and also use Java. MySQL for back-end design.
 
