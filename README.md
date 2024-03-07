@@ -14,7 +14,7 @@ LIVE PROJECTS:
 * [Live Demo](https://full-website-b4091.web.app/)
 * [Live Demo](https://soft-sequel-11d1f1.netlify.app/)
 * [Live Demo](https://fly-faraz.web.app/)
-* [Live Link]( https://start-up-5f6ad.web.app/)
+* [Live Demo]( https://start-up-5f6ad.web.app/)
 * Technology used: JavaScript,TypeScript React & React+Vite Library, Redux , CSS Library for Front-end Design and also use NodeJs,Express,MongoDb & MySQL for back-end design.
   
 
