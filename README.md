@@ -9,6 +9,7 @@
 - 💬 I’m currently learning | AWS | Docker | MySQL |  
 - 🚍 How to reach me  jonaeathbcc18@gmail.com
 <hr/>
+
 ➡️ LIVE PROJECTS:
 * [Live Demo]( https://new-food-blog.web.app/)
 * [Live Demo](https://full-website-b4091.web.app/)
