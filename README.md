@@ -11,11 +11,11 @@
 <hr/>
 
 ➡️ LIVE PROJECTS:
-* Food-Blog: Live Demo]( https://new-food-blog.web.app/)
+* Food-Blog:[Live Demo]( https://new-food-blog.web.app/)
 * Food-App:[Live Demo](https://full-website-b4091.web.app/)
 * Gime-First:[Live Demo](https://soft-sequel-11d1f1.netlify.app/)
 * Fly-Faraz:[Live Demo](https://fly-faraz.web.app/)
-* Start-up:Live Demo]( https://start-up-5f6ad.web.app/)
+* Start-up:[Live Demo]( https://start-up-5f6ad.web.app/)
 
 ➡️ Technology used: JavaScript,TypeScript React & React+Vite Library, Redux , CSS Library for Front-end Design and also use NodeJs,Express,MongoDb & MySQL for back-end design.
 
